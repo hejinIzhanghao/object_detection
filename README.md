@@ -28,7 +28,7 @@ A python toolbox for computing image saliency
 - https://github.com/Joker316701882/Salient-Object-Detection
 Implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
 
-# Moving object detection
+## Moving object detection
 - https://github.com/kmyid/fastMCD
 Implementation of the paper "Detection of Moving Objects with Non-stationary Cameras in 5.8ms: Bringing Motion Detection to Your Mobile Device", CVPRW13
 -https://github.com/madaiqian/ADAS-moving-object-detection

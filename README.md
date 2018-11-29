@@ -1,4 +1,4 @@
-# object_detection
+# Object Detection
 
 ## Resources
 - https://github.com/amusi/awesome-object-detection
@@ -20,18 +20,22 @@ BING++: A Fast High Quality Object Proposal Generator at 100fps
 - https://github.com/jponttuset/mcg
 Multiscale Combinatorial Grouping - Object Proposals and Segmentation
 
-
 ## Saliency
 - https://github.com/jimmie33/MBS
 Minimum Barrier Salient Object Detection
 - https://github.com/yhenon/pyimgsaliency
 A python toolbox for computing image saliency
 - https://github.com/Joker316701882/Salient-Object-Detection
-implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
+Implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
 
-## tutorials
+# Moving object detection
+- https://github.com/kmyid/fastMCD
+Implementation of the paper "Detection of Moving Objects with Non-stationary Cameras in 5.8ms: Bringing Motion Detection to Your Mobile Device", CVPRW13
+-https://github.com/madaiqian/ADAS-moving-object-detection
+Find out the moving object in dynamic background (especially while car driving) based on OpenCV and VS2013.
+
+## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
-
 - https://github.com/nenadmarkus/pico
 Pixel Intensity Comparison-based Object detection 

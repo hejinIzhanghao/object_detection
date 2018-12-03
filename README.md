@@ -27,6 +27,13 @@ Minimum Barrier Salient Object Detection
 A python toolbox for computing image saliency
 - https://github.com/Joker316701882/Salient-Object-Detection
 Implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
+- https://github.com/valhongli/SaliencyFilters
+Implementation of "Saliency Filters: Contrast Based Filtering for Salient Region Detection"
+- https://github.com/lizhounaa/salient-region-detection-tip15
+Matlab implementation of the paper "Salient Region Detection via Integrating Diffusion-Based Compactness and Local Contrast"
+
+
+
 
 ## Moving object detection
 - https://github.com/kmyid/fastMCD

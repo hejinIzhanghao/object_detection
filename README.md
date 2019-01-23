@@ -32,9 +32,6 @@ Implementation of "Saliency Filters: Contrast Based Filtering for Salient Region
 - https://github.com/lizhounaa/salient-region-detection-tip15
 Matlab implementation of the paper "Salient Region Detection via Integrating Diffusion-Based Compactness and Local Contrast"
 
-
-
-
 ## Moving object detection
 - https://github.com/kmyid/fastMCD
 Implementation of the paper "Detection of Moving Objects with Non-stationary Cameras in 5.8ms: Bringing Motion Detection to Your Mobile Device", CVPRW13
@@ -46,3 +43,14 @@ Find out the moving object in dynamic background (especially while car driving) 
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
 - https://github.com/nenadmarkus/pico
 Pixel Intensity Comparison-based Object detection 
+
+## Tools
+- https://github.com/Microsoft/VoTT/
+Microsoft Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. 
+- https://github.com/wkentaro/labelme
+Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). 
+- https://github.com/tzutalin/labelImg
+LabelImg is a graphical image annotation tool and label object bounding boxes in images 
+- https://github.com/AlexeyAB/Yolo_mark
+GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 
+

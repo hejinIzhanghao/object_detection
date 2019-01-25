@@ -21,12 +21,16 @@ BING++: A Fast High Quality Object Proposal Generator at 100fps
 Multiscale Combinatorial Grouping - Object Proposals and Segmentation
 
 ## Saliency
+- https://github.com/MingMingCheng/SalBenchmark
+The Saliency Benchmark compare, qualitatively and quantitatively, 42 state-of-the-art models(30 salient object detection, 10 fixation prediction, 1 objectness, and 1 baseline) over 6 challenging datasets for the purpose of benchmarking salient object detection and segmentation methods.
 - https://github.com/jimmie33/MBS
 Minimum Barrier Salient Object Detection
 - https://github.com/yhenon/pyimgsaliency
 A python toolbox for computing image saliency
 - https://github.com/Joker316701882/Salient-Object-Detection
 Implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
+- https://github.com/Andrew-Qibin/DSS
+code for "Deeply supervised salient object detection with short connections" published in CVPR 2017 
 - https://github.com/valhongli/SaliencyFilters
 Implementation of "Saliency Filters: Contrast Based Filtering for Salient Region Detection"
 - https://github.com/lizhounaa/salient-region-detection-tip15

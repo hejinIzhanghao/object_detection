@@ -48,7 +48,7 @@ Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Objec
 - https://github.com/nenadmarkus/pico
 Pixel Intensity Comparison-based Object detection 
 
-## Tools
+## Label Tools
 - https://github.com/Microsoft/VoTT/
 Microsoft Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. 
 - https://github.com/wkentaro/labelme
@@ -57,4 +57,10 @@ Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point 
 LabelImg is a graphical image annotation tool and label object bounding boxes in images 
 - https://github.com/AlexeyAB/Yolo_mark
 GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 
+
+## Misc
+- https://github.com/thtrieu/darkflow
+Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
+- https://github.com/jinyu121/DW2TF
+Darknet Weights to TensorFlow
 

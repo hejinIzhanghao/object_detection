@@ -42,6 +42,10 @@ Implementation of the paper "Detection of Moving Objects with Non-stationary Cam
 -https://github.com/madaiqian/ADAS-moving-object-detection
 Find out the moving object in dynamic background (especially while car driving) based on OpenCV and VS2013.
 
+## CNN detection
+- https://github.com/ShiqiYu/libfacedetection/tree/master/src
+An open source library for face detection in images. The face detection speed can reach 1500FPS. 
+
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"

@@ -6,6 +6,9 @@ Awesome Object Detection
 - https://github.com/caocuong0306/awesome-object-proposals
 awesome-object-proposals
 
+- https://www.kaggle.com/c/airbus-ship-detection
+Airbus Ship Detection Challenge dataset
+
 ## Framework
 - https://github.com/facebookresearch/Detectron
 FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
@@ -45,6 +48,16 @@ Find out the moving object in dynamic background (especially while car driving) 
 ## CNN detection
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 
+- https://github.com/LiuDongjing/BuildingChangeDetector
+基于U-Net检测卫星图像上的新增建筑 
+- https://github.com/ternaus/TernausNet
+UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
+- https://github.com/jakeret/tf_unet
+Generic U-Net Tensorflow implementation for image segmentation 
+- https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277?scriptVersionId=2164855/notebook
+Keras U-Net starter.
+- https://github.com/mattzheng/U-Net-Demo
+U-Net图像分割demo
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

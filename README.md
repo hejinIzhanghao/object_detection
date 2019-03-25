@@ -45,7 +45,7 @@ Implementation of the paper "Detection of Moving Objects with Non-stationary Cam
 -https://github.com/madaiqian/ADAS-moving-object-detection
 Find out the moving object in dynamic background (especially while car driving) based on OpenCV and VS2013.
 
-## CNN detection
+## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 
 - https://github.com/LiuDongjing/BuildingChangeDetector
@@ -58,6 +58,8 @@ Generic U-Net Tensorflow implementation for image segmentation
 Keras U-Net starter.
 - https://github.com/mattzheng/U-Net-Demo
 U-Net图像分割demo
+- https://github.com/junfu1115/DANet
+Dual Attention Network for Scene Segmentation (CVPR2019) 
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

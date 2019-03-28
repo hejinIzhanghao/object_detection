@@ -5,7 +5,6 @@
 Awesome Object Detection
 - https://github.com/caocuong0306/awesome-object-proposals
 awesome-object-proposals
-
 - https://www.kaggle.com/c/airbus-ship-detection
 Airbus Ship Detection Challenge dataset
 
@@ -42,7 +41,7 @@ Matlab implementation of the paper "Salient Region Detection via Integrating Dif
 ## Moving object detection
 - https://github.com/kmyid/fastMCD
 Implementation of the paper "Detection of Moving Objects with Non-stationary Cameras in 5.8ms: Bringing Motion Detection to Your Mobile Device", CVPRW13
--https://github.com/madaiqian/ADAS-moving-object-detection
+- https://github.com/madaiqian/ADAS-moving-object-detection
 Find out the moving object in dynamic background (especially while car driving) based on OpenCV and VS2013.
 
 ## deep learning
@@ -60,7 +59,24 @@ Keras U-Net starter.
 U-Net图像分割demo
 - https://github.com/junfu1115/DANet
 Dual Attention Network for Scene Segmentation (CVPR2019) 
-
+- https://github.com/zhixuhao/unet
+unet for image segmentation using Keras
+- https://github.com/jakeret/tf_unet
+Generic U-Net Tensorflow implementation for image segmentation 
+- https://github.com/LeeJunHyun/Image_Segmentation
+pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net. 
+- https://github.com/fyu/dilation
+Dilated Convolution for Semantic Image Segmentation 
+- https://github.com/divamgupta/image-segmentation-keras
+Implementation of Segnet, FCN, UNet and other models in Keras. 
+- https://github.com/hszhao/ICNet
+ICNet for Real-Time Semantic Segmentation on High-Resolution Images, ECCV2018
+- https://github.com/hszhao/PSPNet
+Pyramid Scene Parsing Network, CVPR2017
+- https://github.com/reachsumit/deep-unet-for-satellite-image-segmentation
+Satellite Imagery Feature Detection with SpaceNet dataset using deep UNet 
+- https://github.com/ankitdhall/imageSegmentation
+Image Segmentation using Texture and Color features in C++ 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"
@@ -82,4 +98,7 @@ GUI for marking bounded boxes of objects in images for training neural network Y
 Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - https://github.com/jinyu121/DW2TF
 Darknet Weights to TensorFlow
+- https://github.com/albu/albumentations
+fast image augmentation library and easy to use wrapper around other libraries
+
 

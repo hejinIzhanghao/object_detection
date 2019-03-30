@@ -7,6 +7,8 @@ Awesome Object Detection
 awesome-object-proposals
 - https://www.kaggle.com/c/airbus-ship-detection
 Airbus Ship Detection Challenge dataset
+- https://sthalles.github.io/deep_segmentation_network/
+Deeplab Image Semantic Segmentation Network. https://github.com/sthalles/deeplab_v3
 
 ## Framework
 - https://github.com/facebookresearch/Detectron
@@ -77,6 +79,9 @@ Pyramid Scene Parsing Network, CVPR2017
 Satellite Imagery Feature Detection with SpaceNet dataset using deep UNet 
 - https://github.com/ankitdhall/imageSegmentation
 Image Segmentation using Texture and Color features in C++ 
+- https://github.com/bonlime/keras-deeplab-v3-plus
+Keras implementation of Deeplab v3+ with pretrained weights
+
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"

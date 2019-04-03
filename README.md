@@ -7,8 +7,7 @@ Awesome Object Detection
 awesome-object-proposals
 - https://www.kaggle.com/c/airbus-ship-detection
 Airbus Ship Detection Challenge dataset
-- https://sthalles.github.io/deep_segmentation_network/
-Deeplab Image Semantic Segmentation Network. https://github.com/sthalles/deeplab_v3
+
 
 ## Framework
 - https://github.com/facebookresearch/Detectron
@@ -49,38 +48,9 @@ Find out the moving object in dynamic background (especially while car driving) 
 ## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 
-- https://github.com/LiuDongjing/BuildingChangeDetector
-基于U-Net检测卫星图像上的新增建筑 
-- https://github.com/ternaus/TernausNet
-UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
-- https://github.com/jakeret/tf_unet
-Generic U-Net Tensorflow implementation for image segmentation 
-- https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277?scriptVersionId=2164855/notebook
-Keras U-Net starter.
-- https://github.com/mattzheng/U-Net-Demo
-U-Net图像分割demo
+
 - https://github.com/junfu1115/DANet
 Dual Attention Network for Scene Segmentation (CVPR2019) 
-- https://github.com/zhixuhao/unet
-unet for image segmentation using Keras
-- https://github.com/jakeret/tf_unet
-Generic U-Net Tensorflow implementation for image segmentation 
-- https://github.com/LeeJunHyun/Image_Segmentation
-pytorch Implementation of U-Net, R2U-Net, Attention U-Net, Attention R2U-Net. 
-- https://github.com/fyu/dilation
-Dilated Convolution for Semantic Image Segmentation 
-- https://github.com/divamgupta/image-segmentation-keras
-Implementation of Segnet, FCN, UNet and other models in Keras. 
-- https://github.com/hszhao/ICNet
-ICNet for Real-Time Semantic Segmentation on High-Resolution Images, ECCV2018
-- https://github.com/hszhao/PSPNet
-Pyramid Scene Parsing Network, CVPR2017
-- https://github.com/reachsumit/deep-unet-for-satellite-image-segmentation
-Satellite Imagery Feature Detection with SpaceNet dataset using deep UNet 
-- https://github.com/ankitdhall/imageSegmentation
-Image Segmentation using Texture and Color features in C++ 
-- https://github.com/bonlime/keras-deeplab-v3-plus
-Keras implementation of Deeplab v3+ with pretrained weights
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

@@ -48,10 +48,8 @@ Find out the moving object in dynamic background (especially while car driving) 
 ## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 
-
-- https://github.com/junfu1115/DANet
-Dual Attention Network for Scene Segmentation (CVPR2019) 
-
+- https://github.com/mystic123/tensorflow-yolo-v3
+tensorflow-yolo-v3
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"

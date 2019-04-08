@@ -50,6 +50,13 @@ Find out the moving object in dynamic background (especially while car driving) 
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 
 - https://github.com/mystic123/tensorflow-yolo-v3
 tensorflow-yolo-v3
+- https://github.com/princeton-vl/CornerNet
+implementation of 'CornerNet: Detecting Objects as Paired Keypoints'
+- https://github.com/makalo/CornerNet
+tensorflow implementation of cornernet
+- https://github.com/xingyizhou/ExtremeNet
+Code for bottom-up object detection by grouping extreme and center points 'Bottom-up Object Detection by Grouping Extreme and Center Points'
+
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 Accompanying code for Paperspace tutorial series "How to Implement YOLO v3 Object Detector from Scratch"

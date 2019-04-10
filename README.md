@@ -14,6 +14,10 @@ Airbus Ship Detection Challenge dataset
 FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - https://github.com/Robert-JunWang/Pelee
 Pelee: A Real-Time Object Detection System on Mobile Devices. The code is based on the SSD framework.
+- https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps
+Samples for TensorRT/Deepstream for Tesla & Jetson 
+- https://github.com/NVIDIA-AI-IOT/tf_trt_models
+TensorFlow models accelerated with NVIDIA TensorRT
 
 ## Object proposals
 - https://github.com/Cloud-CV/object-proposals
@@ -56,6 +60,10 @@ implementation of 'CornerNet: Detecting Objects as Paired Keypoints'
 tensorflow implementation of cornernet
 - https://github.com/xingyizhou/ExtremeNet
 Code for bottom-up object detection by grouping extreme and center points 'Bottom-up Object Detection by Grouping Extreme and Center Points'
+- https://github.com/NVIDIA/retinanet-examples
+Fast and accurate object detection with end-to-end GPU optimization 
+- https://github.com/Adamdad/keras-YOLOv3-mobilenet
+transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101 
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

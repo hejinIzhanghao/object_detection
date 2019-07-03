@@ -64,6 +64,8 @@ Code for bottom-up object detection by grouping extreme and center points 'Botto
 Fast and accurate object detection with end-to-end GPU optimization 
 - https://github.com/Adamdad/keras-YOLOv3-mobilenet
 transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101 
+- https://github.com/ChenYingpeng/caffe-yolov3
+A real-time object detection framework of Yolov3 based on caffe
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

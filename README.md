@@ -7,7 +7,8 @@ Awesome Object Detection
 awesome-object-proposals
 - https://www.kaggle.com/c/airbus-ship-detection
 Airbus Ship Detection Challenge dataset
-
+- https://github.com/murari023/awesome-aerial-object-detection#reviewsurvey-papers
+list of papers for object detection in aerial scenes and related application resources
 
 ## Framework
 - https://github.com/facebookresearch/Detectron
@@ -82,6 +83,25 @@ Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point 
 LabelImg is a graphical image annotation tool and label object bounding boxes in images 
 - https://github.com/AlexeyAB/Yolo_mark
 GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 
+
+## aerial
+http://captain.whu.edu.cn/dotaweb/
+DOTA: A Large-scale Dataset for Object DeTection in Aerial Images
+- https://github.com/geometalab/OSMDeepOD
+OpenStreetMap (OSM) and Machine Learning (Deep Learning) based Object Detection from Aerial Imagery
+- https://github.com/vyzboy92/Object-Detection-Net
+Vehicle Detection Faster RCNN for Aerial Images
+- https://github.com/ringringyi/DOTA_YOLOv2
+training DOTA using YOLOv2
+- https://github.com/taegoobot/aerial-object-detector
+To develop a object detection system for aerial data
+- https://github.com/SatyamGaba/real-time_object_detection_with_uavs
+Real-time object detection on an aerial video stream from a UAV using RetinaNet
+- https://github.com/lbborkowski/wind-turbine-detector
+Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab
+- https://github.com/acardoco/GeoLearning_Tensorflow
+Object Detection for aerial images with Tensorflow and Faster RCNN
+
 
 ## Misc
 - https://github.com/thtrieu/darkflow

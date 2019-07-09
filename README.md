@@ -101,6 +101,10 @@ Real-time object detection on an aerial video stream from a UAV using RetinaNet
 Wind Turbine Object Detection from Aerial Imagery Using TensorFlow Object Detection API and Google Colab
 - https://github.com/acardoco/GeoLearning_Tensorflow
 Object Detection for aerial images with Tensorflow and Faster RCNN
+- https://github.com/aniskoubaa/car_detection_yolo_faster_rcnn_uvsc2019
+the dataset and link to the source used in the paper "Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3"
+- https://github.com/sarthak268/Obstacle_Avoidance_for_Drone_Delivery
+implements a simple YOLO algorithm for detection of birds for drones to avoid collision during flight.
 
 
 ## Misc

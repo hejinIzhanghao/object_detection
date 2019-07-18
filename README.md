@@ -109,6 +109,8 @@ implements a simple YOLO algorithm for detection of birds for drones to avoid co
 ## Shape matching
 - :star: https://github.com/meiqua/shape_based_matching
 implementation of halcon shape based matching using linemod.
+- https://github.com/wg-perception/linemod
+An OR pipeline based on LINE-MOD from OpenCV 
 - https://github.com/mikeroberts3000/SketchBasedShapeRetrieval
 C++/Python implementation of the shape matching pipeline in the paper Sketch-Based Shape Retrieval. (http://cybertron.cg.tu-berlin.de/eitz/projects/sbsr/)
 - https://github.com/zcsd/ShapeMatching
@@ -121,6 +123,7 @@ FastLSM: Fast Lattice Shape Matching or Robust Real-Time Deformation
 Implementation of Efficient Deformable Shape Correspondence via Kernel Matching
 - https://github.com/danielflower/MeshlessDeformations
 A C++ implementation of Meshless Deformations Based on Shape Matching 
+
 
 ## Misc
 - https://github.com/thtrieu/darkflow

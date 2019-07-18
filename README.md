@@ -106,6 +106,21 @@ the dataset and link to the source used in the paper "Car Detection using Unmann
 - https://github.com/sarthak268/Obstacle_Avoidance_for_Drone_Delivery
 implements a simple YOLO algorithm for detection of birds for drones to avoid collision during flight.
 
+## Shape matching
+- :star: https://github.com/meiqua/shape_based_matching
+implementation of halcon shape based matching using linemod.
+- https://github.com/mikeroberts3000/SketchBasedShapeRetrieval
+C++/Python implementation of the shape matching pipeline in the paper Sketch-Based Shape Retrieval. (http://cybertron.cg.tu-berlin.de/eitz/projects/sbsr/)
+- https://github.com/zcsd/ShapeMatching
+Shape/Digit Matching using Fourier Descriptor 
+- https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html
+matching with shape context
+- http://www.alecrivers.com/fastlsm/
+FastLSM: Fast Lattice Shape Matching or Robust Real-Time Deformation
+- https://github.com/zorah/KernelMatching
+Implementation of Efficient Deformable Shape Correspondence via Kernel Matching
+- https://github.com/danielflower/MeshlessDeformations
+A C++ implementation of Meshless Deformations Based on Shape Matching 
 
 ## Misc
 - https://github.com/thtrieu/darkflow

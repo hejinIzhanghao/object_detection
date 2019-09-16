@@ -85,7 +85,7 @@ LabelImg is a graphical image annotation tool and label object bounding boxes in
 GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 
 
 ## aerial
-http://captain.whu.edu.cn/dotaweb/
+- http://captain.whu.edu.cn/dotaweb/
 DOTA: A Large-scale Dataset for Object DeTection in Aerial Images
 - https://github.com/geometalab/OSMDeepOD
 OpenStreetMap (OSM) and Machine Learning (Deep Learning) based Object Detection from Aerial Imagery
@@ -105,6 +105,10 @@ Object Detection for aerial images with Tensorflow and Faster RCNN
 the dataset and link to the source used in the paper "Car Detection using Unmanned Aerial Vehicles: Comparison between Faster R-CNN and YOLOv3"
 - https://github.com/sarthak268/Obstacle_Avoidance_for_Drone_Delivery
 implements a simple YOLO algorithm for detection of birds for drones to avoid collision during flight.
+- https://github.com/TAMU-VITA/UAV-NDFT
+"Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach" 
+- https://github.com/avanetten/simrdwn
+Rapid satellite imagery object detection 
 
 ## Shape matching
 - :star: https://github.com/meiqua/shape_based_matching

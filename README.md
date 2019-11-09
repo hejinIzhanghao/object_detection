@@ -128,6 +128,15 @@ Implementation of Efficient Deformable Shape Correspondence via Kernel Matching
 - https://github.com/danielflower/MeshlessDeformations
 A C++ implementation of Meshless Deformations Based on Shape Matching 
 
+## Lane detection
+- https://github.com/amusi/awesome-lane-detection
+paper ande codes list of lane detection. 
+- https://github.com/galenballew/SDC-Lane-and-Vehicle-Detection-Tracking
+OpenCV in Python for lane line and vehicle detection/tracking in autonomous cars 
+- https://github.com/shawshany/Advance_LaneFinding
+Advance_LaneFinding in chinese
+- https://github.com/georgesung/advanced_lane_detection
+Advanced lane detection using computer vision 
 
 ## Misc
 - https://github.com/thtrieu/darkflow

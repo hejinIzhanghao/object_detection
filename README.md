@@ -67,6 +67,10 @@ Fast and accurate object detection with end-to-end GPU optimization
 transfer the backend of yolov3 into Mobilenetv1，VGG16，ResNet101 and ResNeXt101 
 - https://github.com/ChenYingpeng/caffe-yolov3
 A real-time object detection framework of Yolov3 based on caffe
+- https://github.com/PengyiZhang/SlimYOLOv3
+SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications 
+- https://github.com/liux0614/yolo_nano
+Unofficial implementation of yolo nano 
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch

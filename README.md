@@ -50,6 +50,20 @@ Implementation of the paper "Detection of Moving Objects with Non-stationary Cam
 - https://github.com/madaiqian/ADAS-moving-object-detection
 Find out the moving object in dynamic background (especially while car driving) based on OpenCV and VS2013.
 
+## DIC
+- https://github.com/dicengine/dice
+Digital Image Correlation Engine (DICe): a stereo DIC application that runs on a desktop or high performance computing platform (massively parallel) 
+- https://github.com/FranckLab/FIDIC
+Fast Iterative Digital Image Correlation Algorithm (FIDIC) is a 2D version of FIDVC algorithm to find dispalcements fields in a 2D image
+- https://github.com/justinblaber/ncorr_2D_matlab
+2D Digital Image Correlation Matlab Software
+- https://github.com/TWANG006/TW
+Hybrid CPU and GPU real-time dynamic digital image correlation engine and application 
+- https://github.com/bickelmps/DIC_FFT_ETHZ
+Digital Image Correlation using a Fast Fourier Transform approach 
+- https://github.com/joostouwerling/dic
+Digital Image Correlation in Matlab 
+
 ## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
 An open source library for face detection in images. The face detection speed can reach 1500FPS. 

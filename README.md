@@ -63,6 +63,9 @@ Hybrid CPU and GPU real-time dynamic digital image correlation engine and applic
 Digital Image Correlation using a Fast Fourier Transform approach 
 - https://github.com/joostouwerling/dic
 Digital Image Correlation in Matlab 
+- https://github.com/candyguo/Least_square_matching
+Image match method by the LSM ,on matlab platform 
+
 
 ## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src

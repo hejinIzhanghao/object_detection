@@ -43,6 +43,8 @@ code for "Deeply supervised salient object detection with short connections" pub
 Implementation of "Saliency Filters: Contrast Based Filtering for Salient Region Detection"
 - https://github.com/lizhounaa/salient-region-detection-tip15
 Matlab implementation of the paper "Salient Region Detection via Integrating Diffusion-Based Compactness and Local Contrast"
+- https://github.com/tweedmorris/imagesignature
+Python/Numpy/Scipy translation of "Image Signature: Highlighting Sparse Salient Regions" 
 
 ## Moving object detection
 - https://github.com/kmyid/fastMCD

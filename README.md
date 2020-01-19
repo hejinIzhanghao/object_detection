@@ -132,6 +132,8 @@ implements a simple YOLO algorithm for detection of birds for drones to avoid co
 "Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach" 
 - https://github.com/avanetten/simrdwn
 Rapid satellite imagery object detection 
+- https://github.com/sacmehta/EdgeNets
+source code of our work on designing efficient CNNs for computer vision including ESPNet, DiceNet
 
 ## Shape matching
 - :star: https://github.com/meiqua/shape_based_matching

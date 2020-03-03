@@ -67,14 +67,6 @@ Digital Image Correlation using a Fast Fourier Transform approach
 Digital Image Correlation in Matlab 
 - https://github.com/candyguo/Least_square_matching
 Image match method by the LSM ,on matlab platform 
-- https://github.com/AlexeyAB/darknet
-Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet/
-- https://github.com/generalized-iou/g-darknet
-YoloV3 with GIoU loss implemented in Darknet
-- https://github.com/Zzh-tju/DIoU-darknet
-YOLOv3 with DIoU and CIoU losses implemented in Darknet
-- https://github.com/DataXujing/DIoU_YOLO_V3
-D/CIoU_YOLO_V3 by darknet for object detection【口罩佩戴检测数据训练】 
 
 ## deep learning
 - https://github.com/ShiqiYu/libfacedetection/tree/master/src
@@ -97,7 +89,14 @@ A real-time object detection framework of Yolov3 based on caffe
 SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications 
 - https://github.com/liux0614/yolo_nano
 Unofficial implementation of yolo nano 
-
+- https://github.com/AlexeyAB/darknet
+Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet/
+- https://github.com/generalized-iou/g-darknet
+YoloV3 with GIoU loss implemented in Darknet
+- https://github.com/Zzh-tju/DIoU-darknet
+YOLOv3 with DIoU and CIoU losses implemented in Darknet
+- https://github.com/DataXujing/DIoU_YOLO_V3
+D/CIoU_YOLO_V3 by darknet for object detection【口罩佩戴检测数据训练】 
 
 
 ## Tutorials

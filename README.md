@@ -97,7 +97,10 @@ YoloV3 with GIoU loss implemented in Darknet
 YOLOv3 with DIoU and CIoU losses implemented in Darknet
 - https://github.com/DataXujing/DIoU_YOLO_V3
 D/CIoU_YOLO_V3 by darknet for object detection【口罩佩戴检测数据训练】 
-
+- https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB/
+1MB lightweight face detection model
+- https://github.com/sacmehta/EdgeNets
+source code of our work on designing efficient CNNs for computer vision including ESPNet, DiceNet
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
@@ -140,8 +143,7 @@ implements a simple YOLO algorithm for detection of birds for drones to avoid co
 "Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach" 
 - https://github.com/avanetten/simrdwn
 Rapid satellite imagery object detection 
-- https://github.com/sacmehta/EdgeNets
-source code of our work on designing efficient CNNs for computer vision including ESPNet, DiceNet
+
 
 ## Shape matching
 - :star: https://github.com/meiqua/shape_based_matching

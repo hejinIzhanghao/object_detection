@@ -181,4 +181,13 @@ Darknet Weights to TensorFlow
 - https://github.com/albu/albumentations
 fast image augmentation library and easy to use wrapper around other libraries
 
+## license plate
+- https://github.com/detectRecog/CCPD
+CCPD & PDRC: a diverse and well-annotated dataset for license plate detection and recognition 
+- https://github.com/openalpr/openalpr
+Automatic License Plate Recognition library
+- https://github.com/zeusees/HyperLPR
+基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+- https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9
+works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate 
 

@@ -101,6 +101,8 @@ D/CIoU_YOLO_V3 by darknet for object detection【口罩佩戴检测数据训练�
 1MB lightweight face detection model
 - https://github.com/sacmehta/EdgeNets
 source code of our work on designing efficient CNNs for computer vision including ESPNet, DiceNet
+- https://github.com/aim-uofa/AdelaiDet
+AdelaiDet is an open source toolbox for multiple instance-level detection and recognition tasks
 
 ## Tutorials
 - https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
